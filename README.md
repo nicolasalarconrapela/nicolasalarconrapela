@@ -66,54 +66,55 @@
   <span style="display:inline-block; width:130px; margin: 0 10px; vertical-align: middle;">
     <!-- Accenture -->
     <img
-      src="https://www.ub.edu/fintech/wp-content/uploads/2025/07/Accenture-logo-no-background.png"
-      alt="Accenture"
-      height="45"
+      src="https://img.logo.dev/accenture.com?token=pk_VJ3Tc-i0QLOzUYWZN4mRlA&size=27&format=png&theme=dark&retina=true"
+      alt="Accenture Logo"
     />
   </span>
 
   <span style="display:inline-block; width:130px; margin: 0 10px; vertical-align: middle;">
     <!-- Indra -->
     <img
-      src="https://tedae.org/wp-content/uploads/2024/02/logo_indra.jpg"
-      alt="Indra"
-      height="45"
+      src="https://img.logo.dev/name/INDRA?token=pk_VJ3Tc-i0QLOzUYWZN4mRlA&size=27&format=png&theme=dark&retina=true"
+      alt="Indra Logo"
     />
   </span>
 
   <span style="display:inline-block; width:130px; margin: 0 10px; vertical-align: middle;">
     <!-- Banco de España -->
     <img
-      src="https://evmred.com/wp-content/uploads/2019/11/00_clientes-banco-de-espa%C3%B1a.jpg"
+      src="https://img.logo.dev/name/Sepblac?token=pk_VJ3Tc-i0QLOzUYWZN4mRlA&size=27&format=png&theme=dark&retina=true"
       alt="Banco de España"
-      height="45"
+    />
+  </span>
+  <span style="display:inline-block; width:130px; margin: 0 10px; vertical-align: middle;">
+    <!-- Banco Santander Logo -->
+    <img
+      src="https://img.logo.dev/name/Santander?token=pk_VJ3Tc-i0QLOzUYWZN4mRlA&size=27&format=png&theme=dark&retina=true"
+      alt="Fujitsu Logo"
     />
   </span>
 
   <span style="display:inline-block; width:130px; margin: 0 10px; vertical-align: middle;">
     <!-- Fujitsu -->
     <img
-      src="https://1000logos.net/wp-content/uploads/2017/12/Fujitsu-Logo.png"
-      alt="Fujitsu"
-      height="45"
+      src="https://img.logo.dev/name/Fujitsu?token=pk_VJ3Tc-i0QLOzUYWZN4mRlA&size=27&format=png&theme=dark&retina=true"
+      alt="Fujitsu Logo"
     />
   </span>
 
   <span style="display:inline-block; width:130px; margin: 0 10px; vertical-align: middle;">
     <!-- AENA -->
     <img
-      src="https://incober.es/wp-content/uploads/2017/05/Aena-Negro.png"
-      alt="AENA"
-      height="45"
+      src="https://img.logo.dev/name/Aena?token=pk_VJ3Tc-i0QLOzUYWZN4mRlA&size=27&format=png&theme=dark&retina=true"
+      alt="AENA Logo"
     />
   </span>
 
   <span style="display:inline-block; width:170px; margin: 0 30px; vertical-align: middle;">
     <!-- NTT Data -->
     <img
-      src="https://espaitec.uji.es/wp-content/uploads/2024/01/15.-NTT-DATA-1024x289.png"
-      alt="NTT Data"
-      height="45"
+      src="https://img.logo.dev/name/Nttdata?token=pk_VJ3Tc-i0QLOzUYWZN4mRlA&size=27&format=png&theme=dark&retina=true"
+      alt="NTT Data Logo"
     />
   </span>
 
