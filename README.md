@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://media.licdn.com/dms/image/v2/D4D35AQGC4GCQXSa5iw/profile-framedphoto-shrink_400_400/B4DZsDuMQXG4Ac-/0/1765293999495?e=1765918800&v=beta&t=5u5fDemaWOAST9uqXaJD-E7Krs6eFoLFDm_1m-eYDTU"
+    src="https://avatars.githubusercontent.com/u/23703592?v=4"
     alt="Foto de perfil"
     width="180"
     style="border-radius: 50%;"
