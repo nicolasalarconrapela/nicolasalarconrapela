@@ -8,7 +8,7 @@
 </p>-->
 
 <h1 align="center">Hola, soy Nicolás Alarcón 👋</h1>
-<h3 align="center">Senior Full Stack Developer. Java & Python Enthusiast</h3>
+<h3 align="center">Senior Java Developer. Full Stack & Python Enthusiast</h3>
 
 <p align="center">
   <em>Desarrollando soluciones robustas para el sector bancario y ministerial de España.</em>
