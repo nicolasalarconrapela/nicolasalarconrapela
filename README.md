@@ -1,11 +1,11 @@
-<p align="center">
+<!--<p align="center">
   <img 
     src="https://avatars.githubusercontent.com/u/23703592?v=4"
     alt="Foto de perfil"
     width="180"
     style="border-radius: 50%;"
   />
-</p>
+</p>-->
 
 <h1 align="center">Hola, soy Nicolás Alarcón 👋</h1>
 <h3 align="center">Senior Full Stack Developer. Java & Python Enthusiast</h3>
