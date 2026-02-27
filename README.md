@@ -1,12 +1,3 @@
-<!--<p align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/u/23703592?v=4"
-    alt="Foto de perfil"
-    width="180"
-    style="border-radius: 50%;"
-  />
-</p>-->
-
 <h1 align="center">Hola, soy Nicolás Alarcón 👋</h1>
 <h3 align="center">Senior Java Developer. Full Stack & Python Enthusiast</h3>
 
@@ -14,19 +5,38 @@
   <em>Desarrollando soluciones robustas para el sector bancario y ministerial de España.</em>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nicolasalarconrapela" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="mailto:nicolasalarconrapela@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> 
-   <a href="https://stackoverflow.com/users/7911776/nicol%c3%a1s-alarc%c3%b3n-rapela" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-Profile-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-</p>
-
----
+<!-- Contact -->
+<table align="center" >
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/nicolasalarconrapela" target="_blank">
+        <img 
+          src="https://cdn.brandfetch.io/domain/linkedin.com/w/800/h/683/symbol?c=1idP_R5yPRxj0y5BrQc" 
+          alt="LinkedIn"
+          height="24"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://stackoverflow.com/users/7911776/nicol%c3%a1s-alarc%c3%b3n-rapela" target="_blank">
+        <img 
+          src="https://cdn.brandfetch.io/domain/stackoverflow.com/w/800/h/950/symbol?c=1idP_R5yPRxj0y5BrQc" 
+          alt="StackOverflow"
+          height="24"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:nalarconrapela@gmail.com">
+        <img 
+          src="https://cdn.brandfetch.io/domain/gmail.com/w/200/h/601/symbol?c=1idP_R5yPRxj0y5BrQc" 
+          alt="Email"
+          height="24"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tech Stack
 
