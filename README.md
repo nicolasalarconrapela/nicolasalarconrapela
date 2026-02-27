@@ -1,11 +1,6 @@
 <h1 align="center">Hola, soy Nicolás Alarcón 👋</h1>
-<h3 align="center">Senior Java Developer. Full Stack & Python Enthusiast</h3>
-
-<p align="center">
-  <em>Desarrollando soluciones robustas para el sector bancario y ministerial de España desde 2019.</em>
-</p>
-
 <!-- Contact -->
+<p align="center">
 <table align="center" >
   <tr>
     <td align="center">
@@ -37,7 +32,9 @@
     </td>
   </tr>
 </table>
-
+<p align="center">
+<h3 align="center">Senior Java Developer. OpenSource enthusiast.</h2>
+<!-- Stack -->
 <p align="center">
   <img src="https://img.shields.io/badge/Java-8-ED8B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-11-007396?style=for-the-badge" />
@@ -47,8 +44,9 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 <p align="center">
-  <strong>He tenido la oportunidad de aportar valor en proyectos para:</strong>
+  <em>Desarrollando soluciones robustas para el sector bancario y ministerial de España desde 2019.</em>
 </p>
+
 
 <div align="center">
   <table style="border-collapse: collapse; width: 100%;">
