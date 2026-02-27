@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Nicolás Alarcón 👋</h1>
+<h1 align="center">Hi, I'm Nicolás Alarcón 👋🏽</h1>
 <!-- Contact -->
 <p align="center">
 <table align="center" >
@@ -33,7 +33,7 @@
   </tr>
 </table>
 <p align="center">
-<h3 align="center">Senior Java Developer. OpenSource enthusiast.</h2>
+<h3 align="center">Senior Java Developer Open Source enthusiast.</h2>
 <!-- Stack -->
 <p align="center">
   <img src="https://img.shields.io/badge/Java-8-ED8B00?style=for-the-badge" />
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 <p align="center">
-  <em>Desarrollando soluciones robustas para el sector bancario y ministerial de España desde 2019.</em>
+  <em>Developing robust solutions for the banking and ministerial sector in Spain since 2019.</em>
 </p>
 
 <div align="center">
