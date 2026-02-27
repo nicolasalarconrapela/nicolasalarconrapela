@@ -117,3 +117,15 @@
     </tr>
  </table>
 </div>
+
+<!-- START_GALLERY -->
+<!-- last_updated: 2026-02-27T14:24:35 -->
+
+### 🏆 Top Contributions on Github
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:8px;">
+<a href="https://github.com/apache" title="apache · 3 (merged: 3)" style="display:inline-flex;align-items:center;justify-content:center;padding:6px;border:1px solid green;border-radius:999px;text-decoration:none;color:green;"><img src="https://avatars.githubusercontent.com/u/47359?v=4&s=28" width="28" height="28" style="border-radius:50%;" alt="apache" /></a>
+<a href="https://github.com/firebase" title="firebase · 1 (merged: 0)" style="display:inline-flex;align-items:center;justify-content:center;padding:6px;border:1px solid rgba(125,125,125,.35);border-radius:999px;text-decoration:none;color:inherit;"><img src="https://avatars.githubusercontent.com/u/1335026?v=4&s=28" width="28" height="28" style="border-radius:50%;" alt="firebase" /></a>
+<a href="https://github.com/microsoft" title="microsoft · 1 (merged: 1)" style="display:inline-flex;align-items:center;justify-content:center;padding:6px;border:1px solid green;border-radius:999px;text-decoration:none;color:green;"><img src="https://avatars.githubusercontent.com/u/6154722?v=4&s=28" width="28" height="28" style="border-radius:50%;" alt="microsoft" /></a>
+</div>
+<!-- END_GALLERY -->
