@@ -75,7 +75,6 @@
     <tr>
       <td align="center" width="130">
         <img src="https://cdn.brandfetch.io/domain/caib.es/w/800/h/790?c=1idP_R5yPRxj0y5BrQc" width="90" alt="Gob. Illes Balears" />
-        <br/><sub>Gob. Illes Balears</sub>
       </td>
       <td align="center" width="130">
         <img src="https://cdn.brandfetch.io/domain/miteco.gob.es/w/400/h/400?c=1idP_R5yPRxj0y5BrQc" width="90" alt="MITECO" />
