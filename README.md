@@ -38,10 +38,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-8-ED8B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-11-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-21-5382A1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-11g-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-19g-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Tools-Generative_AI-8A2BE2?style=for-the-badge" />
 </p>
 <p align="center">
   <em>Developing robust solutions for the banking and ministerial sector in Spain since 2019.</em>
