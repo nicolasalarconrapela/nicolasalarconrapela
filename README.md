@@ -33,7 +33,7 @@
   </tr>
 </table>
 <p align="center">
-<h3 align="center">Senior Java Developer Open Source enthusiast.</h2>
+<h3 align="center">Software Engineer (AI) - Java Analyst - Open Source enthusiast.</h2>
 <!-- Stack -->
 <p align="center">
   <img src="https://img.shields.io/badge/Java-8-ED8B00?style=for-the-badge" />
